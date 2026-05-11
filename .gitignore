@@ -1,0 +1,13 @@
+# Ignore large data files
+data/uber-raw-data-*.csv
+data/uber_cleaned.csv
+data/uber_powerbi.csv
+data/Uber-Jan-Feb-FOIL.csv
+data/other-*.csv
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
