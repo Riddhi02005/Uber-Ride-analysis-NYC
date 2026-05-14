@@ -103,6 +103,6 @@ jupyter notebook notebooks/uber_analysis.ipynb
 ---
 
 ## 👨‍💻 Author
-**Your Name**
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- GitHub: [your-github](https://github.com/your-username)
+**Riddhi Patel**
+- LinkedIn: www.linkedin.com/in/riddhi02005
+- GitHub: https://github.com/Riddhi02005
