@@ -44,6 +44,7 @@ simulating a real-world Uber data analyst workflow.
 ---
 
 ## 📁 Project Structure
+
 ```
 uber-ride-analysis/
 │
@@ -92,6 +93,7 @@ View notebooks directly in browser without downloading:
 ---
 
 ## 🚀 How to Run
+
 ```bash
 # 1. Clone the repo
 git clone https://github.com/Riddhi02005/Uber-Ride-analysis-NYC.git
@@ -116,11 +118,13 @@ jupyter notebook notebooks/uber_analysis.ipynb
 > Download from Kaggle and place all CSV files inside the `data/` folder.
 
 ---
+
 ## 📊 Power BI Dashboard Preview
 
 ![Dashboard](visuals/dashboard_preview.png)
 
 ---
+
 ### Quick Download:
 ```bash
 # Option 1: Kaggle CLI
