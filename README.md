@@ -81,10 +81,10 @@ View notebooks directly in browser without downloading:
 
 | Notebook | Preview Link |
 |----------|-------------|
-| Data Cleaning | [View on nbviewer](https://nbviewer.org/github/Riddhi02005/Uber-Ride-analysis-NYC/blob/main/notebooks/uber_data_clean.ipynb) |
-| EDA & Charts | [View on nbviewer](https://nbviewer.org/github/Riddhi02005/Uber-Ride-analysis-NYC/blob/main/notebooks/uber_EDA.ipynb) |
-| Visualizations | [View on nbviewer](https://nbviewer.org/github/Riddhi02005/Uber-Ride-analysis-NYC/blob/main/notebooks/uber_Loaddata%26setStyle.ipynb) |
-| Location Heatmaps | [View on nbviewer](https://nbviewer.org/github/Riddhi02005/Uber-Ride-analysis-NYC/blob/main/notebooks/uber_loc%26heatmap.ipynb) |
+| Data Cleaning | [View on nbviewer](https://nbviewer.org/github/Riddhi02005/Uber-Ride-analysis-NYC/blob/main/notebook/uber_data_clean.ipynb) |
+| EDA & Charts | [View on nbviewer](https://nbviewer.org/github/Riddhi02005/Uber-Ride-analysis-NYC/blob/main/notebook/uber_EDA.ipynb) |
+| Visualizations | [View on nbviewer](https://nbviewer.org/github/Riddhi02005/Uber-Ride-analysis-NYC/blob/main/notebook/uber_Loaddata%26setStyle.ipynb) |
+| Location Heatmaps | [View on nbviewer](https://nbviewer.org/github/Riddhi02005/Uber-Ride-analysis-NYC/blob/main/notebook/uber_loc%26heatmap.ipynb) |
 ---
 
 ## 📸 Dashboard Preview
