@@ -72,7 +72,18 @@ uber-ride-analysis/
 │
 └── README.md
 ```
+---
 
+## 👁️ Live Notebook Previews
+
+View notebooks directly in browser without downloading:
+
+| Notebook | Preview Link |
+|----------|-------------|
+| Data Cleaning | [View on nbviewer](https://nbviewer.org/github/Riddhi02005/Uber-Ride-analysis-NYC/blob/main/notebooks/uber_data_clean.ipynb) |
+| EDA & Charts | [View on nbviewer](https://nbviewer.org/github/Riddhi02005/Uber-Ride-analysis-NYC/blob/main/notebooks/uber_EDA.ipynb) |
+| Visualizations | [View on nbviewer](https://nbviewer.org/github/Riddhi02005/Uber-Ride-analysis-NYC/blob/main/notebooks/uber_Loaddata%26setStyle.ipynb) |
+| Location Heatmaps | [View on nbviewer](https://nbviewer.org/github/Riddhi02005/Uber-Ride-analysis-NYC/blob/main/notebooks/uber_loc%26heatmap.ipynb) |
 ---
 
 ## 📸 Dashboard Preview
@@ -83,7 +94,7 @@ uber-ride-analysis/
 ## 🚀 How to Run
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/uber-ride-analysis.git
+git clone https://github.com/Riddhi02005/Uber-Ride-analysis-NYC.git
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn folium plotly jupyter
@@ -95,11 +106,30 @@ jupyter notebook notebooks/uber_analysis.ipynb
 ---
 
 ## 📚 Dataset
-- **Source:** [Kaggle — Uber Pickups in NYC](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city)
-- **Size:** 4.5M+ records
-- **Period:** April – September 2014
-- **Features:** DateTime, Latitude, Longitude, Base Code
 
+- **Source:** [Uber Pickups in New York City — Kaggle](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city)
+- **Size:** 4.5M+ records across 6 months
+- **Period:** April – September 2014
+- **Columns:** Date/Time, Lat, Lon, Base
+
+> ⚠️ Raw data files not included due to size limits.
+> Download from Kaggle and place all CSV files inside the `data/` folder.
+
+---
+## 📊 Power BI Dashboard Preview
+
+![Dashboard](visuals/dashboard_preview.png)
+
+---
+### Quick Download:
+```bash
+# Option 1: Kaggle CLI
+kaggle datasets download -d fivethirtyeight/uber-pickups-in-new-york-city
+
+# Option 2: Manual
+# Visit → https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city
+# Click Download → Extract → Place CSVs in data/ folder
+```
 ---
 
 ## 👨‍💻 Author
