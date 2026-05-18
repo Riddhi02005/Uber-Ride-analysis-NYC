@@ -1,3 +1,4 @@
 *.ipynb linguist-detectable=true
 *.ipynb linguist-language=Jupyter Notebook
 *.html linguist-detectable=false
+*.html linguist-vendored=true
